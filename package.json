@@ -1,0 +1,25 @@
+{
+  "name": "desenvolvimentowebads",
+  "version": "1.0.0",
+  "description": "apizera",
+  "homepage": "https://github.com/MiguelLorenzoLima/desenvolvimentoWebADS#readme",
+  "bugs": {
+    "url": "https://github.com/MiguelLorenzoLima/desenvolvimentoWebADS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiguelLorenzoLima/desenvolvimentoWebADS.git"
+  },
+  "license": "ISC",
+  "author": "miguel lima",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  },
+  "devDependencies": {}
+}
